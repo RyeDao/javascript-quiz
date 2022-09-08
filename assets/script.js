@@ -11,7 +11,7 @@ var questions = [
         answer: "Object-Oriented"
     },
     {
-        title: "Which of the following keywords is used to define a variable in Javascript",
+        title: "Which of the following keywords is used to define a variable in Javascript?",
         choices: ["var", "let", "Both A and B", "None of the above"],
         answer: "Both A and B"
     },
