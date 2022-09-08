@@ -1,0 +1,40 @@
+:root{
+    --light: white;
+    --dark: rgb(93, 16, 145);
+}
+
+.count-down {
+    float: right;
+    padding: 10px 15px;
+    color: var(--dark);
+}
+
+.btn {
+    float: left;
+    padding: 10px 15px;
+}
+
+body {
+    background-color: var(--white);
+}
+
+#quizBody {
+    text-align: center;
+    padding: 14vh;
+}
+
+
+button {
+    border: thick;
+    color: var(--light);
+    font-size: 17px;
+    background-color: var(--dark);
+    padding: 10px 16px;
+    margin: 4px;
+    border-radius: 4px;
+    
+}
+
+button:hover {
+    background-color: pink;
+}
