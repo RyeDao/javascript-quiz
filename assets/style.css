@@ -4,6 +4,7 @@
 }
 
 .count-down {
+    font-size: 1.5rem;
     float: right;
     padding: 10px 15px;
     color: var(--dark);
@@ -32,7 +33,7 @@ button {
     padding: 10px 16px;
     margin: 4px;
     border-radius: 4px;
-
+    
 }
 
 button:hover {
