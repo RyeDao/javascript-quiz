@@ -34,7 +34,7 @@ var questions = [
 
 function start() {
     
-    timeLeft = 45;
+    timeLeft = 75;
     document.getElementById("timeLeft").innerHTML = timeLeft;
 
     timer = setInterval(function () {
