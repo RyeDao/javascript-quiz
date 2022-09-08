@@ -32,9 +32,9 @@ button {
     padding: 10px 16px;
     margin: 4px;
     border-radius: 4px;
-    
+
 }
 
 button:hover {
     background-color: pink;
-}
+};
